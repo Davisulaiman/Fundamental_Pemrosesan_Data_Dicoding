@@ -1,8 +1,3 @@
-Berikut adalah versi rapi dan terstruktur dari file `README.md` Anda:
-
----
-
-```markdown
 # Submission Dicoding Fundamental Pemrosesan Data
 
 Proyek ini merupakan bagian dari submission kelas **Fundamental Pemrosesan Data** di Dicoding. Proyek ini melakukan proses ETL (Extract, Transform, Load) terhadap data produk fashion dari situs [Fashion Studio Dicoding](https://fashion-studio.dicoding.dev/). Data diambil dari halaman 1 hingga 50, kemudian dibersihkan dan disimpan ke berbagai tujuan.
