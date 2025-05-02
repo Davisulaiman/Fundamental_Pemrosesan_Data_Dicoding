@@ -5,8 +5,6 @@ Proyek ini merupakan bagian dari submission kelas **Fundamental Pemrosesan Data*
 ## Struktur Proyek
 
 ```
-
-```
 .
 ├── main.py
 ├── utils/
